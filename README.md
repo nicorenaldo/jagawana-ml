@@ -8,7 +8,7 @@ Jagawana is a Forest Logging Prevention System, using Wide Sensor Network to det
 
 We use the dataset ESC-50 to train our model, from [here](https://github.com/karolpiczak/ESC-50) and [here](https://www.kaggle.com/mmoreaux/environmental-sound-classification-50) 
 
-<img src="img/Illustration.png" width="800px"/>
+<center><img src="img/Illustration.png" width="500px"/></center>
 
 ## Getting Started
 
